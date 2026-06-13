@@ -251,14 +251,40 @@ footer{
     </div>
 </section>
 
-<!-- CONTACT -->
+<!-- CONTACT SECTION -->
 <section class="contact" id="contact">
     <h2>Contact Us</h2>
 
     <p>📍 Pansol, Calamba City, Laguna</p>
-    <p>📞 0917-806-4028</p>
-    <p>📞 0915-289-6006</p>
-    <p>📧 reyesprivatepool.reservation@gmail.com</p>
+    <p>For inquiries and reservations, contact us through WhatsApp or Viber:</p>
+
+    <div class="contact-container">
+
+        <div class="contact-card">
+            <h3>📱 0917-806-4028</h3>
+
+            <a href="https://wa.me/639178064028" target="_blank" class="whatsapp-btn">
+                WhatsApp
+            </a>
+
+            <a href="viber://chat?number=%2B639178064028" class="viber-btn">
+                Viber
+            </a>
+        </div>
+
+        <div class="contact-card">
+            <h3>📱 0915-289-6006</h3>
+
+            <a href="https://wa.me/639152896006" target="_blank" class="whatsapp-btn">
+                WhatsApp
+            </a>
+
+            <a href="viber://chat?number=%2B639152896006" class="viber-btn">
+                Viber
+            </a>
+        </div>
+
+    </div>
 </section>
 
 <footer>
