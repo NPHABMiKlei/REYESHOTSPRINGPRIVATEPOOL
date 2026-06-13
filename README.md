@@ -42,7 +42,7 @@ nav a{
 /* HERO */
 .hero{
     height:80vh;
-    background:url('https://images.unsplash.com/photo-B6851927-AF54-42A9-9695-B6C8ECC4A5C1.png') center/cover;
+    background:url('B6851927-AF54-42A9-9695-B6C8ECC4A5C1.png') center/cover;
     display:flex;
     align-items:center;
     justify-content:center;
